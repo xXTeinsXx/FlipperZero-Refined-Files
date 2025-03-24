@@ -1,6 +1,9 @@
 ## Copy of the UberGuidoZ FLipper repository/library of files and resources. 
 
 THis repository contains all of the "usefull files" excluding documentation or resocuces. It will also have better organization ssdly at the expense of having things divided by 'author' like it is done in the original repo. This repo is updated with some of my own software as well. Everything is up to date as of Mar 24, 2025.
+
+**MOST OF THIS CODE IS NOT WRITTEN BY ME. ALL CREDIT GOES TO THE AUTHORS. THIS IS JUST WHAT I PERSONALLY HAVE ON MY FLIPPER**
+
 -xXTeinsXx
 
 -----
