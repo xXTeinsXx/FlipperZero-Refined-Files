@@ -1,7 +1,7 @@
-## Playground (and dump) of stuff I made, modified, researched, or found for the Flipper Zero.
-**Looking for Infrared (IR) codes? Head over to [the IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)! Just want to download part of any repo? [Try over here](https://uberguidoz.github.io/DownGit/)!**
+## Copy of the UberGuidoZ FLipper repository/library of files and resources. 
 
-## If you're new to github in general, check out [this great guide](https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf) from Wr3nch!
+THis repository contains all of the "usefull files" excluding documentation or resocuces. It will also have better organization ssdly at the expense of having things divided by 'author' like it is done in the original repo. This repo is updated with some of my own software as well. Everything is up to date as of Mar 24, 2025.
+-xXTeinsXx
 
 -----
 
